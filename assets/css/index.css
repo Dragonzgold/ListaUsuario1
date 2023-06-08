@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.centerText{
+    text-align: center;
+}
+
+.titulo{
+    color: red;
+}
